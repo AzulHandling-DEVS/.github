@@ -1,12 +1,12 @@
 # 💻 Azul Handling · Software Team
 
-> Building systems that (mostly) don’t crash planes ✈️
+> Building systems that work… until someone asks “can we change this small thing?” ✈️
 
 ---
 
 ## 🎯 Quiénes somos
-Somos el equipo de software de Azul Handling.  
-Convertimos café ☕ + bugs 🐛 en sistemas críticos que hacen que todo funcione… a veces incluso a la primera.
+Somos el equipo de software de Azul Handling.
+Convertimos bugs 🐛 en sistemas que funcionan… y cuando no, en tickets bien documentados.
 
 ---
 
@@ -24,20 +24,20 @@ Diseñar y mantener software que soporte la operación aeroportuaria con estabil
 
 ---
 
-## 🤝 Filosofía
-- Si funciona, no lo toques  
-- Si no funciona, es “feature”  
-- Si rompe en producción, es viernes  
-- Si nadie lo entiende, lo ha hecho alguien del equipo anterior  
+## 🧠 Filosofía del equipo
+
+- **Personas** — Sin personas no hay sistema… ni a quién preguntar “¿esto quién lo ha tocado?”  
+- **Excelencia** — Si funciona, perfecto. Si no, “lo miramos luego” (y luego es importante)  
+- **Integridad** — Si algo falla, lo decimos. Aunque no tengamos ni idea de por qué  
+- **Innovación** — Si no encaja, lo intentamos arreglar… hasta que encaje o lo llamamos “nuevo diseño”  
+- **Eco** — Intentamos no generar más problemas de los que resolvemos  
 
 ---
 
 ## 🚀 Cultura
-Seriedad en lo crítico, humor en lo imposible, y siempre un deploy con fe.
+Trabajamos con nuestros pilares como guía… y con los imprevistos como parte del día a día
 
 ---
-
-## 😂 Equipo en su estado natural
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWs4MmowNzA0dTdqd21nNGZvdnRnaTR1bWsxa2hocDdqMGxrbTRibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="420"/>
